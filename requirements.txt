@@ -14,3 +14,6 @@ TgCrypto>=1.1.1,<1.1.10
 git+git://github.com/lzzy12/youtube-dl@d7c2b43#youtube_dl
 flask
 pySmartDL
+telegraph
+lxml
+pyjokes
