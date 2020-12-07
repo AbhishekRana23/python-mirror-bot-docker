@@ -18,3 +18,4 @@ telegraph
 lxml
 pyjokes
 aiohttp
+pycryptodomex
