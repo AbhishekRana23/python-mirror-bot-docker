@@ -9,7 +9,7 @@ python-dotenv>=0.10
 tenacity>=6.0.0
 python-magic
 beautifulsoup4>=4.8.2,<4.8.10
-pyrogram>=1.0.6,<1.0.7
+pyrogram
 TgCrypto>=1.1.1,<1.1.10
 youtube_dl
 flask
@@ -19,3 +19,7 @@ lxml
 pyjokes
 aiohttp
 pycryptodomex
+qbittorrent-api==2020.7.7
+torrentool==1.1.0
+urllib3==1.25.10
+motor
